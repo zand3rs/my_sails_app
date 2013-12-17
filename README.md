@@ -1,2 +1,2 @@
-my_sails_app
-============
+# my_sails_app
+### a Sails application
